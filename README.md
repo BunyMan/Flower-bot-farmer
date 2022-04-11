@@ -7,3 +7,5 @@ the 30 seconds of you plant's cooldown resettin (15 minutes) that's exactly what
 
 When you run it for the first time it will ask for your Discord token, the ID of the channel where you want it to send the watering messages to and a 
 list of your plants so that it knows what is has to water.
+
+Here's the link to the bot: https://top.gg/bot/731736201400418314
