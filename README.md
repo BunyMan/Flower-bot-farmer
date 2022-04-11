@@ -9,3 +9,5 @@ When you run it for the first time it will ask for your Discord token, the ID of
 list of your plants so that it knows what is has to water.
 
 Here's the link to the bot: https://top.gg/bot/731736201400418314
+
+If don't know how to get your Discord token, here's a guide: https://pcstrike.com/how-to-get-discord-token/
