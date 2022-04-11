@@ -1,4 +1,4 @@
-# Flower-bot-farmer
+# Flower-bot-farmer 🌺
 
 This simple python program impersonates you on Discord using your token with the simple purpose of gaining exp for the 
 Flower Bot. If you're not familiar with the Flower Bot, it's a very simple Discord bot wich let's you water and grow little pixel-art plants. You gain exp by 
